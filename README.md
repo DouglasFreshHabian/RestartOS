@@ -66,7 +66,7 @@ Beyond digital tools, real-world connections are vital for rebuilding. Networkin
 RestartOS - A Blueprint for Change 🚀
 	</h1>
  
-By adopting the **F.E.L.O.N.** philosophy, you take a holistic approach to rebuilding your digital life, focusing on privacy, security, education, and building supportive communities. It's a path toward self-reliance and empowerment that opens doors to new opportunities, both in your digital and personal life.
+By adopting the **RestartOS** philosophy, you take a holistic approach to rebuilding your digital life, focusing on privacy, security, education, and building supportive communities. It's a path toward self-reliance and empowerment that opens doors to new opportunities, both in your digital and personal life.
 
 Let's take charge of our future. 💻🛡️
 
