@@ -172,7 +172,7 @@ A Yubikey is a hardware security key that you insert into your device, which pro
 
 ---
 
-## 2. **Use Encrypted Email Like ProtonMail or Tutanota 📧**
+## 2. **Use Encrypted Email Like ProtonMail or [Tutanota](https://tuta.com/) 📧**
 
 **Why it's important:**  
 Standard email services (like Gmail, Yahoo, etc.) may store your data and can be accessed by third parties, including law enforcement, without your consent. Encrypted email services ensure that your email messages are readable only by you and your recipient, preventing unauthorized access.
