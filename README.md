@@ -156,7 +156,7 @@ Beyond digital tools, real-world connections are vital for rebuilding. Networkin
 
 ---
 
-# 🛡️ [Top 9 Steps to Rebuild Your Digital Life & Protect Your Privacy](https://github.com/DouglasFreshHabian/RestartOS/blob/main/9StepsToRebuild.md)
+## 🛡️ [Top 9 Steps to Rebuild Your Digital Life & Protect Your Privacy](https://github.com/DouglasFreshHabian/RestartOS/blob/main/9StepsToRebuild.md)
 
 For those looking to take control of their digital presence, here are 9 essential steps to enhance your security, privacy, and independence. Whether you're starting fresh or just prioritizing digital safety, these practices will give you the tools you need for a secure future. 🌍💻
 
