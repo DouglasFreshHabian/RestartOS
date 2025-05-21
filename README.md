@@ -162,7 +162,7 @@ For those looking to take control of their digital presence, here are 9 essentia
 
 ---
 
-## 1. **Use Yubikey for Multi-Factor Authentication 🔑**
+## 1. **Use [Yubikey](https://amzn.to/3F6n2Tn) for Multi-Factor Authentication 🔑**
 
 **Why it's important:**  
 Multi-factor authentication (MFA) adds an additional layer of security to your accounts, making it harder for hackers to access them. While regular passwords can be weak or stolen, MFA requires something you have (the Yubikey) in addition to something you know (your password), ensuring that even if your password is compromised, your accounts remain protected.
@@ -182,7 +182,7 @@ ProtonMail and Tutanota are both end-to-end encrypted email providers. This mean
 
 ---
 
-## 3. **Use Encrypted SMS Like Signal 📱**
+## 3. **Use Encrypted SMS Like [Signal](https://signal.org/) 📱**
 
 **Why it's important:**  
 Regular SMS messages are not encrypted and can be intercepted or stored by your carrier or third parties. Signal is an encrypted messaging app that ensures that your messages, calls, and shared media are private and only accessible to you and the recipient.
