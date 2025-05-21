@@ -28,7 +28,7 @@ Here's why **learning Linux** can be one of the most empowering and crucial step
 
 Learning Linux gives you control. Unlike other operating systems (Windows or macOS), Linux is fully customizable and open-source, meaning you can audit the code and know exactly what your system is doing. This allows you to ensure that there are no hidden backdoors or surveillance mechanisms tracking you without your knowledge.
 
-For someone who has served time and is rebuilding their life, control over your own digital life is key. **Linux empowers you to safeguard your privacy** by providing transparency and the ability to make conscious, informed decisions about your system’s security and what data it shares.
+For someone who has served time and has rebuilt their life, control over your own digital life is key. **Linux empowers you to safeguard your privacy** by providing transparency and the ability to make conscious, informed decisions about your system’s security and what data it shares.
 
 ---
 
