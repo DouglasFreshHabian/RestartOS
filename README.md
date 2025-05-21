@@ -12,7 +12,9 @@ Through **RestartOS**, individuals are encouraged to adopt privacy-preserving pr
 
 The goal of **RestartOS** is to give users the tools, knowledge, and mindset to start over, protect their personal data, and build a secure, anonymous, and self-reliant digital presence—whether for personal or professional reasons. It's a fresh start for those looking to rebuild and reclaim their privacy in an increasingly interconnected world.
 
-# F.E.L.O.N. - Rebuilding Digital Lives with Privacy and Security 🛡️
+<h1 align="center">
+ F.E.L.O.N.  🛡️
+	</h1>
 
 ## **F.E.L.O.N.** stands for:
 
