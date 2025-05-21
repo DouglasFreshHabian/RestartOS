@@ -110,7 +110,7 @@ In short: **Linux isn’t just an operating system—it’s a path to digital fr
  F.E.L.O.N.  🛡️
 	</h1>
 
-## **F.E.L.O.N.** stands for:
+## [F.E.L.O.N.](https://github.com/DouglasFreshHabian/RestartOS/blob/main/FELON.md) stands for:
 
 - **Freedom** through  
 - **Empowerment**  
