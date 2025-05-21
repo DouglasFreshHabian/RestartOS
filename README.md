@@ -254,3 +254,34 @@ Start by switching away from Gmail, Google Search, and Google Drive. Use privacy
 
 ### Final Thoughts 💭  
 These 9 steps, when followed carefully, can significantly increase your privacy and security, giving you more control over your digital life. They provide a strong foundation for rebuilding your life with a focus on personal safety, freedom, and privacy. Taking ownership of your digital presence is an empowering step forward, especially for someone with a past who is looking to make positive changes. 🚀
+
+---
+
+## 💖 Support This Project
+
+If RestartOS™ has helped you or your system, consider supporting the project!  
+Your contributions help fuel future updates, testing, and new features.
+
+Every bit of support is appreciated — thank you!
+
+
+  <h2 align="center"> 
+  <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
+
+<!-- Reach out to me if you are interested in collaboration or want to contract with me for any of the following:
+	Building Github Pages
+	Creating Youtube Videos
+	Editing Youtube Videos
+	Youtube Thumbnail Creation
+	Anything Pertaining to Linux! -->
+
+<!-- 
+ _____              _       _____                        _          
+|  ___| __ ___  ___| |__   |  ___|__  _ __ ___ _ __  ___(_) ___ ___ 
+| |_ | '__/ _ \/ __| '_ \  | |_ / _ \| '__/ _ \ '_ \/ __| |/ __/ __|
+|  _|| | |  __/\__ \ | | | |  _| (_) | | |  __/ | | \__ \ | (__\__ \
+|_|  |_|  \___||___/_| |_| |_|  \___/|_|  \___|_| |_|___/_|\___|___/
+        dfresh@tutanota.com Fresh Forensics, LLC 2025 -->
