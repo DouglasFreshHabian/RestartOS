@@ -16,9 +16,9 @@ By adopting the **RestartOS** philosophy, you take a holistic approach to rebuil
 
 Let's take charge of our future. 💻🛡️
 
-<h2 align="center">
-Why Learning Linux is Essential for Rebuilding Your Digital Life 🖥️🔐
-	</h2>
+<h1 align="center">
+Learning Linux is Essential for Rebuilding Your Digital Life 🖥️🔐
+	</h1>
 
 Here's why **learning Linux** can be one of the most empowering and crucial steps for individuals with a past who are working to rebuild their lives:
 
