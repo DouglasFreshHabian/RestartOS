@@ -104,7 +104,7 @@ Learning Linux isn't just about using a new operating system—it's about embrac
 
 ---
 
-In short: **Linux isn’t just an operating system—it’s a path to digital freedom and a fresh start.** 🌟
+In short: **Linux isn’t just an operating system—it’s a path to digital freedom and a fresh start.** 🚀
 
 <h1 align="center">
  F.E.L.O.N.  🛡️
@@ -192,17 +192,17 @@ Signal uses end-to-end encryption for SMS and voice calls, meaning that not even
 
 ---
 
-## 4. **Encrypt Hard Drive with LUKS, VeraCrypt, or LVM 💾**
+## 4. **Encrypt Hard Drive with LUKS or [VeraCrypt](https://veracrypt.io) 💾**
 
 **Why it's important:**  
 Encrypting your hard drive ensures that, if your computer or device is lost or stolen, your data remains unreadable to anyone without the encryption key or password. This is critical for protecting sensitive personal information, especially for someone starting over and trying to keep their past secure.
 
 **How to implement:**  
-LUKS (Linux Unified Key Setup) is a standard for disk encryption in Linux, while VeraCrypt can be used across multiple operating systems (Linux, Windows, macOS). Both tools allow you to encrypt your entire drive or specific folders. LVM (Logical Volume Manager) is another option that, combined with encryption, provides flexible storage management. When setting up Linux, you can choose to encrypt your disk during the installation process, making it nearly impossible for someone to recover your data without your password.
+LUKS (Linux Unified Key Setup) is a standard for disk encryption in Linux, while VeraCrypt can be used across multiple operating systems (Linux, Windows, macOS). Both tools allow you to encrypt your entire drive or specific folders. When setting up Linux, you can choose to encrypt your disk during the installation process, making it nearly impossible for someone to recover your data without your password.
 
 ---
 
-## 5. **Use a Privacy-Focused VPN Provider That Doesn't Save or Share Logs, Like Mullvad VPN 🌐**
+## 5. **Use a Privacy-Focused VPN Provider That Doesn't Save or Share Logs, Like [Mullvad VPN](https://mullvad.net) 🌐**
 
 **Why it's important:**  
 A VPN (Virtual Private Network) protects your online activities by routing your internet traffic through an encrypted tunnel, hiding your IP address, and making your online actions more private. Without a VPN, your internet service provider (ISP) or any third-party websites can track your browsing history, and this data can be sold or used against you.
@@ -212,7 +212,7 @@ Mullvad VPN is a privacy-focused provider that doesn't store logs of your activi
 
 ---
 
-## 6. **Use Privacy-Focused Search Engines and Browsers Like Brave, Firefox, DuckDuckGo, Etc. 🌍**
+## 6. **Use Privacy-Focused Search Engines and Browsers Like [Brave](https://brave.com/download/), [Firefox](https://www.mozilla.org/en-US/), [DuckDuckGo](https://duckduckgo.com/), Etc. 🌍**
 
 **Why it's important:**  
 Popular search engines (like Google) track your every search, collecting data that can be sold to advertisers or even handed over to authorities. Browsers like Chrome and Edge also track your behavior, making it easy for companies or bad actors to build a detailed profile of you.
@@ -222,7 +222,7 @@ DuckDuckGo is a search engine that doesn't track you or store your search histor
 
 ---
 
-## 7. **Use a Reputable, Open-Source Password Manager Such as KeePass to Generate and Store Unique Passwords 🔐**
+## 7. **Use a Reputable, Open-Source Password Manager Such as [KeePassXC](https://keepassxc.org/) to Generate and Store Unique Passwords 🔐**
 
 **Why it's important:**  
 Using the same password across multiple sites or using weak passwords makes it easy for hackers to break into your accounts. A password manager allows you to store strong, unique passwords for every service you use, ensuring that even if one of your accounts is compromised, the others remain secure.
@@ -232,7 +232,7 @@ KeePass is an open-source password manager that securely stores your passwords a
 
 ---
 
-## 8. **Switch to Linux to Gain More Privacy, Security, and Freedom 🐧**
+## 8. **Switch to [Linux](https://ubuntu.com/download) to Gain More Privacy, Security, and Freedom 🐧**
 
 **Why it's important:**  
 Linux is inherently more secure and privacy-respecting than operating systems like Windows or macOS, which often come with built-in telemetry and tracking. Additionally, Linux is open-source, which means its code can be reviewed by anyone for backdoors or security flaws.
@@ -242,7 +242,7 @@ By switching to a Linux distribution like Ubuntu, Debian, or Fedora, you gain mo
 
 ---
 
-## 9. **De-Google as Best You Can 🛑**
+## 9. **[De-Google](https://github.com/tycrek/degoogle) as Best You Can 🛑**
 
 **Why it's important:**  
 Google collects a vast amount of personal data on users and is often the primary target for surveillance, whether by corporations or law enforcement. Data brokers can buy this information, and even law enforcement can bypass the need for a warrant to access it.
