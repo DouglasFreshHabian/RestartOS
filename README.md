@@ -26,7 +26,7 @@ The goal of **RestartOS** is to give users the tools, knowledge, and mindset to 
 
 ---
 
-### **Freedom through** 🕊️  
+### **Freedom** 🕊️  
 **Represents the opportunity to regain control over one’s digital life.**  
 Taking control of your digital life means no longer being beholden to surveillance systems or tracking software. It’s about the freedom to choose what data you share, who you trust, and how you interact with the digital world.
 
